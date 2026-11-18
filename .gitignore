@@ -1,0 +1,17 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Root IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node modules at root (just in case)
+node_modules/
